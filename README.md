@@ -10,4 +10,4 @@ Forked from the process by Alison Hill on r-ladies canberra.  This is such a fan
 
 There are three keys to adjust and then customization of the rest.  
 
-**When you are tired of academic, you can try much else.**
+**When you are tired of academic, you can try much else.** 
